@@ -1,4 +1,4 @@
-# local_serverless
+# VLLM Serverless
 
 A private, scale-to-zero vLLM server on [Modal](https://modal.com) with **~70s cold starts** via vLLM sleep mode + Modal GPU memory snapshots.
 
